@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+hr {
+  border: 1px solid #000;
+  width: 1000px;
+}
+
+.numa1 {
+  background-image: url("a.ec089938.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.num1 {
+  background-image: url("1.fb639c68.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 800px;
+  margin-top: 10px;
+}
+
+.num2 {
+  background-image: url("2.39edb27f.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 800px;
+  margin-top: 50px;
+  margin-bottom: 80px;
+}
+
+.num3 {
+  background-image: url("3.8013c83b.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 860px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+.num4 {
+  background-image: url("4.145ad645.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 60px;
+  margin-top: 28px;
+  margin-bottom: 80px;
+}
+
+.num5 {
+  background-image: url("5.fdbc6cdf.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+  margin-top: 50px;
+  margin-bottom: 80px;
+}
+
+.num6 {
+  background-image: url("6.c3e1cae3.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 760px;
+  margin-top: 50px;
+  margin-bottom: 80px;
+}
+
+.num7 {
+  background-image: url("7.f9b77f29.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 260px;
+  margin-top: 20px;
+  margin-bottom: 28px;
+}
+
+/*# sourceMappingURL=index.9cacdeb7.css.map */
